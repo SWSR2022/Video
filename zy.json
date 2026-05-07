@@ -98,7 +98,7 @@
       {"id": "诺讯资源", "name": "诺讯资源","baseUrl": "http://caiji.nxflv.com/api.php/provide/vod/at/xml","type": 1,"jiexiUrl": "https://www.nxflv.com/?url=","group": "normal","enabled": true,"priority": 196},
       {"id": "雨哥影视", "name": "雨哥影视","baseUrl": "http://cj.baozi66.top:66/api.php/provide/vod/at/xml","type": 1,"jiexiUrl": "","group": "normal","enabled": true,"priority": 197},
       {"id": "MX 影院", "name": "MX 影院","baseUrl": "http://49.235.107.145:81/api.php/provide/vod/at/xml","type": 1,"jiexiUrl": "","group": "normal","enabled": true,"priority": 198},
-      {"id": "MBO 影视", "name": "MBO 影视","baseUrl": "https://www.mbomovie.com/api.php/provide/vod/at/xml/","type": 1,"jiexiUrl": "","group": "normal","enabled": true,"priority": 199}
+      {"id": "MBO 影视", "name": "MBO 影视","baseUrl": "https://www.mbomovie.com/api.php/provide/vod/at/xml/","type": 1,"jiexiUrl": "","group": "normal","enabled": true,"priority": 199},
   {"id": "caiji01","name": "亚洲成人在线 ","baseUrl": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
   {"id": "caiji02","name": "草榴视频 ","baseUrl": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
   {"id": "caiji03","name": "一本道资源 ","baseUrl": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
@@ -162,7 +162,7 @@
   {"id": "gdlsp","name": "gdlsp","type": 0,"baseUrl": "https://www.gdlsp.com/api/xml.php","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
   {"id": "kxgav","name": "kxgav","type": 0,"baseUrl": "https://www.kxgav.com/api/xml.php","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
   {"id": "msnii","name": "msnii","type": 0,"baseUrl": "https://www.msnii.com/api/xml.php","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
-  {"id": "xrbsp","name": "xrbsp","type": 0,"baseUrl": "https://www.xrbsp.com/api/xml.php","jiexiUrl": "","group": "premium","enabled": true,"priority": 300}
+  {"id": "xrbsp","name": "xrbsp","type": 0,"baseUrl": "https://www.xrbsp.com/api/xml.php","jiexiUrl": "","group": "premium","enabled": true,"priority": 300},
     {
         "id": "feifan",
         "name": "非凡资源",
