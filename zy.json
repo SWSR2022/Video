@@ -68,9 +68,7 @@
       {"id": "橘猫影视", "name":"橘猫影视", "baseUrl": "http://www.zitv.cc/api.php/provide/vod/at/xml",
      
 "group": "normal","enabled": true,"priority": 122},
-      {"id": "速影", "name":"速影", "baseUrl": "https://速影128.xyz/inc/apijson.php",
-     
-"group": "normal","enabled": true,"priority": 123},
+      
       {"id": "FOX资源", "name":"FOX资源", "baseUrl": "https://api.foxzyapi.com/api.",
      
 "group": "normal","enabled": true,"priority": 124},
